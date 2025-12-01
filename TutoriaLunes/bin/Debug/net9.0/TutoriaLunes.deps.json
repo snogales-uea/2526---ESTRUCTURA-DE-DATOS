@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TutoriaLunes/1.0.0": {
+        "runtime": {
+          "TutoriaLunes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TutoriaLunes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

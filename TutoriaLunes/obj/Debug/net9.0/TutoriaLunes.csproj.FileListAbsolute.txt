@@ -1,0 +1,15 @@
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\bin\Debug\net9.0\TutoriaLunes.exe
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\bin\Debug\net9.0\TutoriaLunes.deps.json
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\bin\Debug\net9.0\TutoriaLunes.runtimeconfig.json
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\bin\Debug\net9.0\TutoriaLunes.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\bin\Debug\net9.0\TutoriaLunes.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\TutoriaLunes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\TutoriaLunes.AssemblyInfoInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\TutoriaLunes.AssemblyInfo.cs
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\TutoriaLunes.csproj.CoreCompileInputs.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\TutoriaLunes.sourcelink.json
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\TutoriaLunes.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\refint\TutoriaLunes.dll
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\TutoriaLunes.pdb
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\TutoriaLunes.genruntimeconfig.cache
+D:\Datos\Documents\UEA\CURSOS\ED\2526---ESTRUCTURA-DE-DATOS\TutoriaLunes\obj\Debug\net9.0\ref\TutoriaLunes.dll
