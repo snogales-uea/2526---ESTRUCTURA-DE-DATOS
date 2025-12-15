@@ -2,7 +2,7 @@
 Console.WriteLine();
 
 // Crear un rectángulo con base 5 y altura 10.5
-Rectangulo rectangulo = new Rectangulo(5, 20);
+Rectangulo rectangulo = new Rectangulo(5, 10.5);
 
 // Encabezado de tabla
 Console.WriteLine("Rectangulo       | Valor");
