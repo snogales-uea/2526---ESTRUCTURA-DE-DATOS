@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-class ProgramaConjunto
+﻿class ProgramaConjunto
 {
     static void Main(string[] args)
     {
